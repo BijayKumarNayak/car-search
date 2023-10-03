@@ -6,10 +6,10 @@ Detailed Car Listings: Each listing includes high-quality images, specifications
 Tailwind CSS Styling: Utilizes Tailwind CSS for a clean and modern user interface.
 3. Installation
 To run the Car Search Website locally on your machine, follow these steps:
-=>Clone this repository to your local computer using https://github.com/BijayKumarNayak/car-searching.git
-=>Navigate to the project directory: cd car-searching
-=>Install the required dependencies: npm install
-=>Start the development server: npm start
+Step-1=>Clone this repository to your local computer using https://github.com/BijayKumarNayak/car-search.git
+Step-2=>Navigate to the project directory: cd car-search
+Step-3=>Install the required dependencies: npm install
+Step-4=>Start the development server: npm start
 =>The website should now be accessible at http://localhost:3000
 4. Technologies Used
 React: A JavaScript library for building user interfaces.
