@@ -1,0 +1,793 @@
+[
+  {
+    "id": 1,
+    "carName": "Toyota RAV4",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Hybrid",
+    "milage": "6 KM/1-liter",
+    "type": "Automatic",
+    "rent": 440,
+    "duration": "month",
+    "image": "https://gaadiwaadi.com/wp-content/uploads/2020/08/Toyota-Rav4-PlugnHybrid.jpg"
+  },
+  {
+    "id": 2,
+    "carName": "BMW 3 series",
+    "year": 2019,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "8.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 350,
+    "duration": "month",
+    "image": "https://imgd.aeplcdn.com/642x336/cw/ec/37067/BMW-3-Series-Exterior-167583.jpg?wm=0&q=80"
+  },
+  {
+    "id": 3,
+    "carName": "Volkswagen T-Cross",
+    "year": 2020,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "5.3 KM/1-liter",
+    "type": "Automatic",
+    "rent": 400,
+    "duration": "month",
+    "image": "https://imgd.aeplcdn.com/642x361/n/cw/ec/44574/volkswagen-t-cross-exterior--front-left-three-quarter-3.jpeg?wm=1&q=75"
+  },
+  {
+    "id": 4,
+    "carName": "Cadillac Escalade",
+    "year": 2020,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.7 KM/1-liter",
+    "type": "Automatic",
+    "rent": 620,
+    "duration": "month",
+    "image": "https://i.ytimg.com/vi/uIwy67414mc/maxresdefault.jpg"
+  },
+  {
+    "id": 5,
+    "carName": "BMW 4 Series GTI",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.6 KM/1-liter",
+    "type": "Automatic",
+    "rent": 530,
+    "duration": "month",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaC-L8nodB0jtT940TFz28ku9-Yf13iSX82_pVDjULg&s"
+  },
+  {
+    "id": 6,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 7,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 8,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 9,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 10,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 11,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 12,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 13,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+
+  {
+    "id": 14,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 15,
+    "carName": "Toyota RAV4",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Hybrid",
+    "milage": "6 KM/1-liter",
+    "type": "Automatic",
+    "rent": 440,
+    "duration": "month",
+    "image": "https://gaadiwaadi.com/wp-content/uploads/2020/08/Toyota-Rav4-PlugnHybrid.jpg"
+  },
+  {
+    "id": 16,
+    "carName": "BMW 3 series",
+    "year": 2019,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "8.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 350,
+    "duration": "month",
+    "image": "https://imgd.aeplcdn.com/642x336/cw/ec/37067/BMW-3-Series-Exterior-167583.jpg?wm=0&q=80"
+  },
+  {
+    "id": 17,
+    "carName": "Volkswagen T-Cross",
+    "year": 2020,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "5.3 KM/1-liter",
+    "type": "Automatic",
+    "rent": 400,
+    "duration": "month",
+    "image": "https://imgd.aeplcdn.com/642x361/n/cw/ec/44574/volkswagen-t-cross-exterior--front-left-three-quarter-3.jpeg?wm=1&q=75"
+  },
+  {
+    "id": 18,
+    "carName": "Cadillac Escalade",
+    "year": 2020,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.7 KM/1-liter",
+    "type": "Automatic",
+    "rent": 620,
+    "duration": "month",
+    "image": "https://i.ytimg.com/vi/uIwy67414mc/maxresdefault.jpg"
+  },
+  {
+    "id": 19,
+    "carName": "BMW 4 Series GTI",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.6 KM/1-liter",
+    "type": "Automatic",
+    "rent": 530,
+    "duration": "month",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaC-L8nodB0jtT940TFz28ku9-Yf13iSX82_pVDjULg&s"
+  },
+  {
+    "id": 20,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 21,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 22,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 23,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 24,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 25,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 26,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id": 27,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+
+  {
+    "id": 28,
+    "carName": "BMW 4 Series ",
+    "year": 2021,
+    "capacity": "4 people",
+    "fuel": "Gasoiline",
+    "milage": "7.2 KM/1-liter",
+    "type": "Automatic",
+    "rent": 490,
+    "duration": "month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+  },
+  {
+    "id":29,
+    "carName":"Toyota RAV4",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Hybrid",
+    "milage":"6 KM/1-liter",
+    "type":"Automatic",
+    "rent":440,
+    "duration":"month",
+    "image":"https://gaadiwaadi.com/wp-content/uploads/2020/08/Toyota-Rav4-PlugnHybrid.jpg"
+
+
+},
+{
+    "id":30,
+    "carName":"BMW 3 series",
+    "year":2019,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"8.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":350,
+    "duration":"month",
+    "image":"https://imgd.aeplcdn.com/642x336/cw/ec/37067/BMW-3-Series-Exterior-167583.jpg?wm=0&q=80"
+
+
+},
+{
+    "id":31,
+    "carName":"Volkswagen T-Cross",
+    "year":2020,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"5.3 KM/1-liter",
+    "type":"Automatic",
+    "rent":400,
+    "duration":"month",
+    "image":"https://imgd.aeplcdn.com/642x361/n/cw/ec/44574/volkswagen-t-cross-exterior--front-left-three-quarter-3.jpeg?wm=1&q=75"
+
+
+},
+{
+    "id":32,
+    "carName":"Cadillac Escalade",
+    "year":2020,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.7 KM/1-liter",
+    "type":"Automatic",
+    "rent":620,
+    "duration":"month",
+    "image":"https://i.ytimg.com/vi/uIwy67414mc/maxresdefault.jpg"
+
+
+},
+{
+    "id":33,
+    "carName":"BMW 4 Series GTI",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.6 KM/1-liter",
+    "type":"Automatic",
+    "rent":530,
+    "duration":"month",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaC-L8nodB0jtT940TFz28ku9-Yf13iSX82_pVDjULg&s"
+
+
+},
+{
+    "id":34,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":35,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+}
+,
+{
+    "id":36,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":37,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":38,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":39,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":40,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":41,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+
+{
+    "id":42,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":43,
+    "carName":"Toyota RAV4",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Hybrid",
+    "milage":"6 KM/1-liter",
+    "type":"Automatic",
+    "rent":440,
+    "duration":"month",
+    "image":"https://gaadiwaadi.com/wp-content/uploads/2020/08/Toyota-Rav4-PlugnHybrid.jpg"
+
+
+},
+{
+    "id":44,
+    "carName":"BMW 3 series",
+    "year":2019,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"8.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":350,
+    "duration":"month",
+    "image":"https://imgd.aeplcdn.com/642x336/cw/ec/37067/BMW-3-Series-Exterior-167583.jpg?wm=0&q=80"
+
+
+},
+{
+    "id":45,
+    "carName":"Volkswagen T-Cross",
+    "year":2020,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"5.3 KM/1-liter",
+    "type":"Automatic",
+    "rent":400,
+    "duration":"month",
+    "image":"https://imgd.aeplcdn.com/642x361/n/cw/ec/44574/volkswagen-t-cross-exterior--front-left-three-quarter-3.jpeg?wm=1&q=75"
+
+
+},
+{
+    "id":46,
+    "carName":"Cadillac Escalade",
+    "year":2020,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.7 KM/1-liter",
+    "type":"Automatic",
+    "rent":620,
+    "duration":"month",
+    "image":"https://i.ytimg.com/vi/uIwy67414mc/maxresdefault.jpg"
+
+
+},
+{
+    "id":47,
+    "carName":"BMW 4 Series GTI",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.6 KM/1-liter",
+    "type":"Automatic",
+    "rent":530,
+    "duration":"month",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaC-L8nodB0jtT940TFz28ku9-Yf13iSX82_pVDjULg&s"
+
+
+},
+{
+    "id":48,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":49,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+}
+,
+{
+    "id":50,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":51,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":52,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":53,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":54,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":55,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+
+{
+    "id":56,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":57,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":58,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+{
+    "id":59,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+},
+
+{
+    "id":60,
+    "carName":"BMW 4 Series ",
+    "year":2021,
+    "capacity":"4 people",
+    "fuel":"Gasoiline",
+    "milage":"7.2 KM/1-liter",
+    "type":"Automatic",
+    "rent":490,
+    "duration":"month",
+    "image":"https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/BMW-4-Series/2478/1558173689738/front-left-side-47.jpg"
+
+
+}
+]
